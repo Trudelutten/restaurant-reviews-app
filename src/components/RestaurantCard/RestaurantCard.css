@@ -1,0 +1,38 @@
+.card {
+    margin-bottom: 25px;
+    margin-top: 25px;
+    opacity: .9;
+}
+
+.card img {
+    margin: 55px;
+}
+
+iframe {
+	max-width: 100%;
+	width: 100%;
+}
+
+.card-title {
+    font-size: 150%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-subtitle {
+    font-size: 90%;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 100%;
+    font-weight: normal;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+a.custom-card,
+a.custom-card:hover {
+  color: inherit;
+}
